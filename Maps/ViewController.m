@@ -23,7 +23,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     //17.395274, 78.510135
-    
+    //fbkfbkfkfjkbhfdjknbjfbnjfnbjfn
+    NSLog(@"fnkfngkn");
     GMSCameraPosition *camera = [GMSCameraPosition cameraWithLatitude:17.395274
                                                             longitude:78.510135
                                                                  zoom:15];
